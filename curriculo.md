@@ -1,14 +1,16 @@
 # Tainá Estefani Martins
-
 - **E-mail:** tainaestefanim@gmail.com
 - **LinkedIn:** www.linkedin.com/in/tainá-estefani-martins
 - **GitHub:** https://github.com/tainaestefani
+
+## Objetivo
+Tenho o objetivo de aplicar e expandir meus conhecimentos em desenvolvimento web e design. Estou comprometida em aprender continuamente, crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa, agregando valor por meio de dedicação, criatividade e trabalho colaborativo.
 
 ## Formação Acadêmica
 - **SENAI/SC** – Curso Técnico em Desenvolvimento de Sistemas (2024 - 2025).  
 - **EEB Cel. Pedro Christiano Feddersen** – Ensino Médio (2021 - 2023).  
 
-## Atuação Profissional
+## Experiência Profissional
 
 ### i4i - Intelligence for Innovation | Estágio em Tecnologia da Informação  
 **Período:** 09/2024 - Empregado  
