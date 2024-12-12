@@ -19,3 +19,6 @@ Você pode entrar em contato comigo através dos seguintes canais:
 - **GitHub:** [tainaestefani](https://github.com/tainaestefani)  
 
 Agradeço a visita e fico à disposição para mais informações. 😊
+
+## Licença
+Este projeto é licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
