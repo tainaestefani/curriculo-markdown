@@ -17,7 +17,7 @@ Tenho o objetivo de aplicar e expandir meus conhecimentos em desenvolvimento web
 - Aprendizagem em trabalho em equipe (Kanban).  
 - Aprendizagem programação na ferramenta GeneXus.  
 - Atendimento ao cliente via sistema de chamados.  
-- Atendimento aos chamados do sistema.  
+- Rotina de testes em sistemas em desenvolvimento.
 
 ### WEG S.A. – Aprendizagem Industrial | Eletrônico de Manutenção Industrial  
 **Período:** 01/2023 - 12/2023  
@@ -37,8 +37,8 @@ Tenho o objetivo de aplicar e expandir meus conhecimentos em desenvolvimento web
 - **Japonês:** Nível Básico.  
 
 ## Cursos
-- **DIO:** HTML5 e CSS3.  
-- **Curso em Vídeo:** JavaScript (Cursando).  
+- **Curso em Vídeo:** HTML5 e CSS3.  
+- **Curso em Vídeo:** JavaScript Básico.  
 - **Cisco:** JavaScript Essentials 1.  
 - **Cisco:** JavaScript Essentials 2.  
 - **DIO:** Introdução ao Git e ao GitHub.  
